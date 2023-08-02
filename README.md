@@ -17,9 +17,7 @@ The script has the following dependencies:
 
 You need to install these dependencies using pip:
 
-\```sh
-pip install requests urllib3
-\```
+`pip install requests urllib3 google`
 
 *Note: `re` and `time` are both part of Python's standard library and thus do not require separate installation.*
 
